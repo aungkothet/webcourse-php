@@ -1,0 +1,27 @@
+<html>
+<body>
+
+<form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
+  Name: <input type="text" name="fnamee">
+  <br>
+  Email : <input type="email" name="email">
+  <input type="submit">
+</form>
+
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+  // collect value of input field
+  
+  $name = $_REQUEST['fnamee'];
+  $postName = $_POST['fnamee'];
+  $getName = $_GET['fnamee'];
+  if (empty($name)) {
+    echo "Name is empty";
+  } else {
+    echo $name .' -- postName ==>  '.$postName. ' -- getName  ==> '. $getName;
+  }
+}
+?>
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+{
+    "id": "cart_L5zN9MWqYDxy35",
+    "created": 1633946073,
+    "updated": 1633948092,
+    "expires": 1636540092,
+    "total_items": 6,
+    "total_unique_items": 2,
+    "subtotal": {
+        "raw": 8030,
+        "formatted": "8,030.00",
+        "formatted_with_symbol": "K8,030.00",
+        "formatted_with_code": "8,030.00 MMK"
+    },
+    "hosted_checkout_url": "https://checkout.chec.io/cart/cart_L5zN9MWqYDxy35",
+    "line_items": [
+        {
+            "id": "item_7RyWOwmK5nEa2V",
+            "product_id": "prod_RqEv5xXPA05Zz4",
+            "name": "LIFT YOUR SPIRITS",
+            "product_name": "LIFT YOUR SPIRITS",
+            "sku": "1",
+            "permalink": "lQ2nDu",
+            "quantity": 5,
+            "price": {
+                "raw": 6,
+                "formatted": "6.00",
+                "formatted_with_symbol": "K6.00",
+                "formatted_with_code": "6.00 MMK"
+            },
+            "line_total": {
+                "raw": 30,
+                "formatted": "30.00",
+                "formatted_with_symbol": "K30.00",
+                "formatted_with_code": "30.00 MMK"
+            },
+            "is_valid": true,
+            "product_meta": [],
+            "selected_options": [],
+            "variant": null,
+            "image": {
+                "id": "ast_LvJjoPVYGEle0n",
+                "url": "https://cdn.chec.io/merchants/34586/assets/DhRCRTdz84yabxUQ|happycope_218114c7-54fe-4a15-b740-dde0c2ef3a3f_1728x.png",
+                "description": null,
+                "is_image": true,
+                "filename": "happycope_218114c7-54fe-4a15-b740-dde0c2ef3a3f_1728x.png",
+                "file_size": 1079769,
+                "file_extension": "png",
+                "image_dimensions": {
+                    "width": 700,
+                    "height": 991
+                },
+                "meta": [],
+                "created_at": 1633936857,
+                "updated_at": 1633936865
+            }
+        },
+        {
+            "id": "item_1ypbroE658n4ea",
+            "product_id": "prod_r2LM5QGqD2wZV1",
+            "name": "ACADIA NATIONAL PARK - EVENING",
+            "product_name": "ACADIA NATIONAL PARK - EVENING",
+            "sku": "1",
+            "permalink": "xcZEHH",
+            "quantity": 1,
+            "price": {
+                "raw": 8000,
+                "formatted": "8,000.00",
+                "formatted_with_symbol": "K8,000.00",
+                "formatted_with_code": "8,000.00 MMK"
+            },
+            "line_total": {
+                "raw": 8000,
+                "formatted": "8,000.00",
+                "formatted_with_symbol": "K8,000.00",
+                "formatted_with_code": "8,000.00 MMK"
+            },
+            "is_valid": true,
+            "product_meta": [],
+            "selected_options": [],
+            "variant": null,
+            "image": {
+                "id": "ast_aZWNoyvAmE580J",
+                "url": "https://cdn.chec.io/merchants/34586/assets/zvtVVZGIk98T7oUR|ACADIA_EVENING_aa3cfb6b-0e3c-4a15-bab6-c21cda2cb91f_740x.jpeg",
+                "description": null,
+                "is_image": true,
+                "filename": "ACADIA_EVENING_aa3cfb6b-0e3c-4a15-bab6-c21cda2cb91f_740x.jpeg",
+                "file_size": 146507,
+                "file_extension": "jpeg",
+                "image_dimensions": {
+                    "width": 740,
+                    "height": 1045
+                },
+                "meta": [],
+                "created_at": 1633948033,
+                "updated_at": 1633948037
+            }
+        }
+    ],
+    "currency": {
+        "code": "MMK",
+        "symbol": "K"
+    },
+    "discount": []
+}
